@@ -14,7 +14,7 @@ Compreender a dinâmica das matrículas do Ensino Médio no Paraná e identifica
 
 ---
 
-## Base de dados
+## Dados
 
 A base utilizada reúne informações municipais para os 399 municípios do Paraná.
 
@@ -26,6 +26,10 @@ Para esta etapa foram utilizadas as seguintes variáveis:
 - Taxa de reprovação
 
 O período analisado foi de 2015 a 2024.
+
+A análise foi realizada a partir de uma base construída com dados públicos provenientes do INEP, IBGE e RAIS, integrados em nível municipal para os 399 municípios do Paraná.
+
+Os arquivos de dados não estão disponíveis neste repositório.
 
 ---
 
@@ -66,15 +70,6 @@ Foram comparadas:
 ### Variação municipal das matrículas
 
 Também foi calculada a variação percentual das matrículas entre 2015 e 2024 para os municípios do Paraná, gerando uma base para análises espaciais e construção de mapas.
-
----
-
-## Próximas etapas
-
-- Construção de mapas municipais no QGIS
-- Análise espacial das matrículas
-- Engenharia de atributos
-- Modelagem preditiva
 
 ---
 
